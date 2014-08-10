@@ -1,0 +1,8 @@
+# Virtualenv
+bin
+lib
+include
+
+# emacs stuff
+*.py~
+
